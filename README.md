@@ -21,13 +21,13 @@ Quality Assurance professional with a robust background in manual and automated 
 * **Senior QA Engineer I** *(October 2023 – Present)*
   * Manual and automated QA, test planning, and release support for a large online English-learning platform. The work covers tutor-facing web portals, admin back-office tools, live video classrooms,        lesson scheduling, and learning materials. Worked in cross-functional Scrum teams with product owners, business analysts, developers, designers and DevOps.
  
-  * Key projects
- Automated tutor attendance and schedule-compliance system (released Feb 2026)
-* QA engineer on a new automation that checks tutors' attendance records every day and applies schedule restrictions on its own, replacing a manual review process.
-* Tested a new reporting API endpoint, a scheduled daily job, an admin tool for setting compliance thresholds, bulk ID upload, and automated emails to tutors and operations staff.
-* Designed and ran over 2,200 test cases across threshold rules (285), the admin tool (290) and the scheduled job (1,662), on 8 tutor account types.
-* Helped write the release plan, which covered 12 failure scenarios rated by severity, rollback and hotfix plans, SQL checks to verify data, and CloudWatch monitoring.
-* Was a named contact for spotting and investigating production defects. Ran production checks that confirmed every restriction tier and email notification worked as expected.
+* **Key projects:
+1. Automated tutor attendance and schedule-compliance system (released Feb 2026)
+* ***QA engineer on a new automation that checks tutors' attendance records every day and applies schedule restrictions on its own, replacing a manual review process.
+* ***Tested a new reporting API endpoint, a scheduled daily job, an admin tool for setting compliance thresholds, bulk ID upload, and automated emails to tutors and operations staff.
+* ***Designed and ran over 2,200 test cases across threshold rules (285), the admin tool (290) and the scheduled job (1,662), on 8 tutor account types.
+* ***Helped write the release plan, which covered 12 failure scenarios rated by severity, rollback and hotfix plans, SQL checks to verify data, and CloudWatch monitoring.
+* ***Was a named contact for spotting and investigating production defects. Ran production checks that confirmed every restriction tier and email notification worked as expected.
 2. Lesson cancellation and student credit compensation fix (released Aug 2026)
 * Tested a fix to the lesson-transfer logic so students on fixed monthly plans get their lesson credit back and a notification email when a tutor cancels.
 * Ran 924 functional and 423 regression test cases, all passing, with no defects at release.

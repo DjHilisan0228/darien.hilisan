@@ -1,8 +1,8 @@
 # Hi there, I'm Darien James F. Hilisan 👋
 
-### **Senior QA Engineer I** based in Leganes, Iloilo, PH 5003[cite: 1] 
+### **Senior QA Engineer I** based in Leganes, Iloilo, PH 5003 
 
-Quality Assurance professional with a robust background in manual and automated testing, test architecture, agile delivery, release management, and cross-functional leadership[cite: 1, 2]. Passionate about building reliable software, optimizing workflows, and scaling test automation coverage[cite: 1].
+Quality Assurance professional with a robust background in manual and automated testing, test architecture, agile delivery, release management, and cross-functional leadership. Passionate about building reliable software, optimizing workflows, and scaling test automation coverage.
 
 ---
 

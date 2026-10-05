@@ -1,4 +1,4 @@
-# Hi there, I'm Darien James F. Hilisan 👋
+# Hi there, I'm Darien James F. Hilisan 
 
 ### **Senior QA Engineer I** | Leganes, Iloilo, PH 5003
 

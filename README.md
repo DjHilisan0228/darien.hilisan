@@ -6,14 +6,14 @@ Quality Assurance professional with extensive experience in test planning, autom
 
 ---
 
-## 🛠️ Core Tech Stack & Methodologies
+## Core Tech Stack & Methodologies
 * **QA Methodologies:** Manual & Automated Testing, Test Planning, Test Design, UAT, Defect Tracking, and Root-Cause Analysis.
 * **Automation Frameworks:** Robot Framework, Python, Behave, Gherkin, Selenium.
 * **Tools & DevOps:** Git, Docker, MySQL, Jira, Confluence, GitLab, BrowserStack, Grafana, AWS CloudWatch.
 
 ---
 
-## 💼 Professional Experience Overview
+## Professional Experience Overview
 * **Rarejob Philippines, Inc.** — Senior QA Engineer I (Oct 2023 – Present)
 * **MYSCHOOLSUITE Inc.** — QA Engineer I / QA Lead (Jan 2026 – May 2026)
 * **CareSpan USA, Inc.** — Consultant QA Tester (Feb 2023 – Sep 2024)
@@ -21,7 +21,7 @@ Quality Assurance professional with extensive experience in test planning, autom
 
 ---
 
-## 📬 Connect with Me
+## Connect with Me
 * **Email:** djhilisan@gmail.com
 * **Phone:** (+63) 9194278404
 * **LinkedIn:** https://www.linkedin.com/in/djhilisan1019/

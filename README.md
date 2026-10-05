@@ -6,7 +6,7 @@ Quality Assurance professional with a robust background in manual and automated 
 
 ---
 
-## 🌐 Domain Expertise & Platform Scope
+## Domain Expertise & Platform Scope
 
 ### 1. Online English-Learning Platform
 Extensive QA experience managing manual and automated testing, test planning, and release support for a large online English-learning platform.
@@ -23,7 +23,7 @@ Comprehensive QA consulting and testing background for CareSpan USA, a telehealt
   * **Exam Room Virtual Consultation:** Clinician and Patient can go over the medical consultation.
 ---
 
-## 🛠️ Core Competencies & Technical Stack
+## Core Competencies & Technical Stack
 
 * **QA Methodologies:** Manual & Automated Testing, Test Planning, Test Design, Test Execution, Scenario Matrix Creation, UAT, Defect Tracking, Root-Cause Analysis, Smoke, Exploratory, and Acceptance Testing.
 * **Automation & Technical Skills:** Robot Framework, Gherkin, Selenium, Behave, Python, API Testing, SQL Data Validation, Scheduled Job Testing.
@@ -32,7 +32,7 @@ Comprehensive QA consulting and testing background for CareSpan USA, a telehealt
 
 ---
 
-## 🚀 Key Project Highlights
+## Key Project Highlights
 
 ### 1. Automated Tutor Attendance and Schedule-Compliance System *(Released Feb 2026)*
 * QA engineer on a new automation that checks tutors' attendance records every day and applies schedule restrictions on its own, replacing a manual review process.
@@ -79,7 +79,7 @@ Comprehensive QA consulting and testing background for CareSpan USA, a telehealt
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 ### **MYSCHOOLSUITE Inc.** (Iloilo City)
 * **QA Engineer - I (Independent Contractor)** *(January 2026 – May 2026)*
@@ -116,7 +116,7 @@ Comprehensive QA consulting and testing background for CareSpan USA, a telehealt
 
 ---
 
-## 🎓 Education
+## Education
 
 * **Bachelor of Science in Information Technology (BSIT)**
   Western Institute of Technology, Iloilo City *(Graduated: June 2021)*
@@ -125,7 +125,7 @@ Comprehensive QA consulting and testing background for CareSpan USA, a telehealt
 
 ---
 
-## 📬 Connect with Me
+## Connect with Me
 
 * **Location:** Leganes, Iloilo, PH 5003
 * **Phone:** (+63) 9194278404

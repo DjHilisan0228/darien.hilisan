@@ -14,8 +14,9 @@ Quality Assurance professional with extensive experience in test planning, autom
 ---
 
 ## Professional Experience Overview
-* **Rarejob Philippines, Inc.** — Senior QA Engineer I (Oct 2022 – Present)
+* **Rarejob Philippines, Inc.** — Senior QA Engineer I (Oct 2023 – Present)
 * **MYSCHOOLSUITE Inc.** — QA Engineer I / QA Lead (Jan 2026 – May 2026)
+* **Rarejob Philippines, Inc.** — Project-based QA Engineer (Oct 2022 – Oct 2023)
 * **CareSpan USA, Inc.** — Consultant QA Tester (Feb 2023 – Sep 2024)
 * **Spring Valley Tech Corp.** — QA Lead / Business Analyst / Project Manager (Mar 2021 – Dec 2022)
 
